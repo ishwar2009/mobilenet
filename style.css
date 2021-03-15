@@ -1,0 +1,57 @@
+body{
+    font-family: 'Architects Daughter', cursive;
+    background-color: rgb(255, 0, 98);
+}
+.header_div{
+    background-color: white;
+}
+.header_div img{
+    width:100px
+}
+.main_div{
+    background-color: rgb(255, 0, 179);
+    padding:10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.main_div label{
+    background-color: white;
+    width: 320px;
+    padding: 10px;
+    margin-bottom: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+#camera,#result{
+    border: 2px solid white;
+    width:310px;
+    height: 310px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div button{
+    width: 310px;
+    font-size: 17px;
+    box-shadow: 5px 5px 18px white;
+    border:1px solid white;
+}
+.footer_div{
+    margin-bottom:50px;
+}
+.footer_div img{
+    width: 75px;
+}
+.footer_div h4{
+    background: white;
+    border-radius: 13px;
+    padding:5px;
+    box-shadow: 5px 5px 18px white;
+}
+.copy_right{
+position: fixed;
+bottom:0;
+color:red;
+width: 100%;
+background-color:yellow;
+line-height: 3;
+text-align: center;
+font-size: 23px;
+}
